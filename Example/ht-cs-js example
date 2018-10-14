@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+  <head>
+    <title>HTML is Structure Only</title>
+  </head> 
+  <body>
+  	<h1 style="color:green; font-size:60px; text-align:centre;">
+  	HTML is Structure Only</h1>
+  	<p style ="margin:0 100px 0 100px; font-size:1.5em;">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+  	<p> Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+  	<footer>
+  		<hr>
+  			<p style="text-align:centre;"
+  			onclick="alert('EMAILING US IS USELESS');">
+  			Tech Support: yeah.reght@server-is-down-.com
+  			</p>
+  			</footer>
+  			</body>
+  			</html>
